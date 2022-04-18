@@ -6,3 +6,11 @@ body{
     text-align: center;
     background-color: khaki;
 }
+
+footer{
+    background-color: antiquewhite;
+}
+
+a, a:visited{
+    color: rgb(55, 43, 15);
+}
